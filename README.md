@@ -64,7 +64,7 @@ The accumulated energy value is stored in the ESP32's non-volatile Preferences s
 
 The dashboard provides remote visualization of the measured electrical parameters.
 
-**Live Dashboard:** [Insert Your Public Adafruit IO Dashboard Link Here](https://io.adafruit.com/mihit_manoj/dashboards/virtual-energy-monitor?kiosk=true)
+**Live Dashboard:** [Adafruit IO Dashboard Link](https://io.adafruit.com/mihit_manoj/dashboards/virtual-energy-monitor?kiosk=true)
 
 The dashboard includes the following feeds:
 
