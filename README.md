@@ -80,18 +80,15 @@ The system was tested using a 100 Ω resistive load. Measurements were observed 
 
 ### Hardware Setup
 
-![Hardware Setup](<img width="1280" height="960" alt="hardware setup (1)" src="https://github.com/user-attachments/assets/2adebb75-d579-4a1a-80e5-afeb702f779b" />
-)
+![Hardware Setup](Images/hardware_setup.jpg)
 
 ### Dashboard – Load ON
 
-![Load ON](<img width="1920" height="856" alt="load on" src="https://github.com/user-attachments/assets/63fd580d-1dee-4106-acd0-4a66f588f10b" />
-)
+![Load ON](Images/dashboard_load_on.png)
 
 ### Dashboard – Load OFF
 
-![Load OFF](<img width="1920" height="860" alt="load off" src="https://github.com/user-attachments/assets/91d7d090-2eb7-46d1-9cce-bb16777139db" />
-)
+![Load OFF](Images/dashboard_load_off.png)
 
 ## Repository Structure
 
