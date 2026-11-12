@@ -23,7 +23,7 @@ The system enables real-time monitoring of electrical parameters and remote acce
 |---|---|
 | ESP32 Development Board | Main microcontroller and Wi-Fi communication |
 | INA219 Sensor | Voltage and current measurement |
-| 100 Ω Resistor | Electrical test load |
+| 9V DC motor | Electrical test load |
 | DC Power Supply | Supplies power to the test circuit |
 | Connecting Wires | Hardware connections |
 
@@ -76,7 +76,7 @@ The dashboard includes the following feeds:
 
 ## Hardware Implementation
 
-The system was tested using a 100 Ω resistive load. Measurements were observed under both load ON and load OFF conditions to validate the monitoring functionality.
+The system was tested using a 9V DC motor load. Measurements were observed under both load ON and load OFF conditions to validate the monitoring functionality.
 
 ### Hardware Setup
 
@@ -100,12 +100,10 @@ ESP32-Cloud-Connected-Energy-Meter/
 │   └── energy_meter.ino
 ├── Documentation/
 │   ├── Project_Report.pdf
-│   └── Circuit_Diagram.png
 ├── Images/
 │   ├── hardware_setup.jpg
 │   ├── dashboard_load_on.png
 │   └── dashboard_load_off.png
-└── LICENSE
 ```
 
 ## Setup Instructions
